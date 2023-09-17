@@ -2,4 +2,4 @@
 
 By Valeria Moreno
 
-Due Sept. 8th
+At-home HTML and CSS mastery assignment. Due Sept. 15th.
